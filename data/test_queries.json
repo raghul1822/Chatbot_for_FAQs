@@ -1,0 +1,142 @@
+[
+  {
+    "query_id": "test_001",
+    "query": "How can I apply for undergraduate admission?",
+    "type": "exact",
+    "expected_faq_id": "faq_001",
+    "description": "Exact match for undergraduate admissions"
+  },
+  {
+    "query_id": "test_002",
+    "query": "HOW CAN I APPLY FOR UNDERGRADUATE ADMISSION?",
+    "type": "capitalization",
+    "expected_faq_id": "faq_001",
+    "description": "All-caps casing variation"
+  },
+  {
+    "query_id": "test_003",
+    "query": "What is the application deadline for the fall semester?!?",
+    "type": "punctuation",
+    "expected_faq_id": "faq_002",
+    "description": "Punctuation variations"
+  },
+  {
+    "query_id": "test_004",
+    "query": "When is the last date to submit the application form for fall?",
+    "type": "paraphrase",
+    "expected_faq_id": "faq_002",
+    "description": "Paraphrase of application deadline"
+  },
+  {
+    "query_id": "test_005",
+    "query": "What are the eligibility requirements to get into B.Tech engineering?",
+    "type": "paraphrase",
+    "expected_faq_id": "faq_011",
+    "description": "Eligibility criteria for B.Tech"
+  },
+  {
+    "query_id": "test_006",
+    "query": "How much is the annual tuition fee for BTech?",
+    "type": "paraphrase",
+    "expected_faq_id": "faq_016",
+    "description": "BTech fee inquiry"
+  },
+  {
+    "query_id": "test_007",
+    "query": "Can tuition fees be payed in installmnts???",
+    "type": "typo_punctuation",
+    "expected_faq_id": "faq_017",
+    "description": "Spelling typos and punctuation"
+  },
+  {
+    "query_id": "test_008",
+    "query": "What is the mandatory attendance percentage required for exams?",
+    "type": "paraphrase",
+    "expected_faq_id": "faq_023",
+    "description": "Attendance requirements for semester exams"
+  },
+  {
+    "query_id": "test_009",
+    "query": "Can I take semester examinations without meeting the minimum attendance?",
+    "type": "negation",
+    "expected_faq_id": "faq_024",
+    "description": "Exam attendance debarment (negation query)"
+  },
+  {
+    "query_id": "test_010",
+    "query": "What are the opening and closing hours of the central library?",
+    "type": "paraphrase",
+    "expected_faq_id": "faq_031",
+    "description": "Library operating hours"
+  },
+  {
+    "query_id": "test_011",
+    "query": "How many books can undergraduate students borrow at a time?",
+    "type": "paraphrase",
+    "expected_faq_id": "faq_032",
+    "description": "Book borrowing limits"
+  },
+  {
+    "query_id": "test_012",
+    "query": "What amenities and facilities are provided inside campus hostels?",
+    "type": "paraphrase",
+    "expected_faq_id": "faq_037",
+    "description": "Hostel room amenities"
+  },
+  {
+    "query_id": "test_013",
+    "query": "What is the night curfew timing for hostel residents?",
+    "type": "paraphrase",
+    "expected_faq_id": "faq_039",
+    "description": "Hostel curfew rules"
+  },
+  {
+    "query_id": "test_014",
+    "query": "What is the college placement percentage and record?",
+    "type": "paraphrase",
+    "expected_faq_id": "faq_041",
+    "description": "Placement statistics inquiry"
+  },
+  {
+    "query_id": "test_015",
+    "query": "Which top companies visit the campus for placements?",
+    "type": "paraphrase",
+    "expected_faq_id": "faq_043",
+    "description": "Top recruiting companies"
+  },
+  {
+    "query_id": "test_016",
+    "query": "What is the highest and average salary package offered?",
+    "type": "paraphrase",
+    "expected_faq_id": "faq_042",
+    "description": "Salary packages"
+  },
+  {
+    "query_id": "test_017",
+    "query": "What is the official email address for admission inquiries?",
+    "type": "paraphrase",
+    "expected_faq_id": "faq_046",
+    "description": "Admissions email contact"
+  },
+  {
+    "query_id": "test_018",
+    "query": "Where is the college physical campus located?",
+    "type": "paraphrase",
+    "expected_faq_id": "faq_047",
+    "description": "Campus address and location"
+  },
+  {
+    "query_id": "test_019",
+    "query": "What is the capital of Australia and best hotels in Sydney?",
+    "type": "out_of_domain",
+    "expected_faq_id": null,
+    "description": "Out-of-domain geography question (must trigger fallback)"
+  },
+  {
+    "query_id": "test_020",
+    "query": "Can you bake me a chocolate cake and order groceries?",
+    "type": "out_of_domain",
+    "expected_faq_id": null,
+    "description": "Out-of-domain cooking request (must trigger fallback)"
+  }
+]

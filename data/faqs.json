@@ -1,0 +1,318 @@
+[
+  {
+    "id": "faq_001",
+    "category": "Program Overview",
+    "question": "What is the CodeAlpha AI Internship program?",
+    "answer": "The CodeAlpha Artificial Intelligence Internship is an intensive, project-based virtual learning experience designed to give students and aspiring engineers hands-on experience building real-world machine learning, NLP, and AI applications.",
+    "keywords": ["codealpha", "ai internship", "program overview", "virtual internship", "machine learning"]
+  },
+  {
+    "id": "faq_002",
+    "category": "Program Overview",
+    "question": "How long does the internship last?",
+    "answer": "The standard internship duration is 4 weeks (1 month). Interns are expected to complete their assigned domain tasks within this timeframe.",
+    "keywords": ["duration", "length", "how long", "weeks", "month", "timeframe"]
+  },
+  {
+    "id": "faq_003",
+    "category": "Program Overview",
+    "question": "Is this internship remote or on-site?",
+    "answer": "The CodeAlpha internship is completely virtual and remote. You can participate from anywhere in the world at your own pace while meeting scheduled milestone deadlines.",
+    "keywords": ["remote", "virtual", "online", "work from home", "on-site", "location"]
+  },
+  {
+    "id": "faq_004",
+    "category": "Application & Eligibility",
+    "question": "Who is eligible to apply for the internship?",
+    "answer": "Any undergraduate, graduate student, recent graduate, or self-taught developer passionate about Artificial Intelligence, Machine Learning, Data Science, or Software Development is eligible to apply.",
+    "keywords": ["eligibility", "who can apply", "qualifications", "students", "graduates", "requirements"]
+  },
+  {
+    "id": "faq_005",
+    "category": "Application & Eligibility",
+    "question": "Is there any registration or application fee?",
+    "answer": "No, applying for the CodeAlpha internship is completely free. There are no registration fees, application charges, or hidden mandatory costs.",
+    "keywords": ["fee", "cost", "free", "charges", "payment", "registration fee"]
+  },
+  {
+    "id": "faq_006",
+    "category": "Application & Eligibility",
+    "question": "When will I receive my offer letter or confirmation email?",
+    "answer": "Offer letters and confirmation batches are typically emailed within 3 to 5 business days after your application has been verified. Check your inbox and spam/promotions folders.",
+    "keywords": ["offer letter", "confirmation", "selection email", "acceptance", "when receive"]
+  },
+  {
+    "id": "faq_007",
+    "category": "Application & Eligibility",
+    "question": "What prerequisites or technical skills are required?",
+    "answer": "Basic proficiency in Python programming, fundamental understanding of data structures, familiarity with libraries like Pandas and Scikit-Learn, and enthusiasm to learn AI/NLP concepts are recommended.",
+    "keywords": ["prerequisites", "skills", "python knowledge", "requirements", "background"]
+  },
+  {
+    "id": "faq_008",
+    "category": "Tasks & Projects",
+    "question": "How many tasks or projects do I need to complete?",
+    "answer": "Interns are generally required to complete at least 2 to 3 core tasks from their chosen domain track to be eligible for the Certificate of Completion.",
+    "keywords": ["how many tasks", "number of projects", "task count", "requirements for completion"]
+  },
+  {
+    "id": "faq_009",
+    "category": "Tasks & Projects",
+    "question": "Where can I find the list of assigned internship tasks?",
+    "answer": "The task list, task guidelines, and problem statements are provided in your official offer documentation and the CodeAlpha task portal under your track dashboard.",
+    "keywords": ["task list", "where to find tasks", "problem statements", "assignments", "task track"]
+  },
+  {
+    "id": "faq_010",
+    "category": "Tasks & Projects",
+    "question": "What is Task 2 in the Artificial Intelligence domain?",
+    "answer": "Task 2 is the AI-Powered FAQ Chatbot. The goal is to build an intelligent chatbot in Python using NLP preprocessing, TF-IDF vectorization, and cosine similarity matching on an FAQ dataset.",
+    "keywords": ["task 2", "faq chatbot", "artificial intelligence task", "nlp project"]
+  },
+  {
+    "id": "faq_011",
+    "category": "Submissions & Deadlines",
+    "question": "How do I submit my completed internship tasks?",
+    "answer": "You submit tasks via the official CodeAlpha Submission Form by providing your public GitHub repository link, demo video link (e.g., LinkedIn or Loom), and short project documentation.",
+    "keywords": ["how to submit", "task submission", "submission form", "github link", "submit project"]
+  },
+  {
+    "id": "faq_012",
+    "category": "Submissions & Deadlines",
+    "question": "What format should my GitHub repository follow for submission?",
+    "answer": "Your repository must be public and organized with modular source code, a requirements.txt file, clean commits, sample data, and a descriptive README.md explaining project setup, architecture, and usage.",
+    "keywords": ["github format", "repository structure", "repo requirements", "readme", "public repo"]
+  },
+  {
+    "id": "faq_013",
+    "category": "Submissions & Deadlines",
+    "question": "Is a video demonstration or LinkedIn post mandatory for task submission?",
+    "answer": "Yes, sharing a short video demo or screenshot showcase on LinkedIn tagging CodeAlpha demonstrates your work, verifies project authenticity, and enhances your professional portfolio.",
+    "keywords": ["video demo", "linkedin post", "showcase", "mandatory", "demo video"]
+  },
+  {
+    "id": "faq_014",
+    "category": "Submissions & Deadlines",
+    "question": "Can I submit my tasks after the deadline?",
+    "answer": "Late submissions are generally discouraged and may not be evaluated for top honors. However, a grace period of 48 hours is occasionally granted if requested in advance through official support.",
+    "keywords": ["late submission", "after deadline", "grace period", "late", "past due"]
+  },
+  {
+    "id": "faq_015",
+    "category": "Submissions & Deadlines",
+    "question": "What happens if I miss the final submission deadline?",
+    "answer": "If you miss the deadline without prior communication, your evaluation may be marked incomplete, and your certificate issuance will be deferred or cancelled.",
+    "keywords": ["missed deadline", "final deadline", "fail to submit", "consequences", "incomplete"]
+  },
+  {
+    "id": "faq_016",
+    "category": "Submissions & Deadlines",
+    "question": "Can I request an extension for task submission?",
+    "answer": "Yes, in case of medical emergencies, university exams, or unforeseen circumstances, you can email support@codealpha.tech before the deadline requesting a reasonable extension.",
+    "keywords": ["extension", "request extension", "more time", "exam clash", "delay"]
+  },
+  {
+    "id": "faq_017",
+    "category": "Evaluation & Grading",
+    "question": "What are the criteria used to evaluate my submitted projects?",
+    "answer": "Submissions are evaluated on code quality and modularity, correct NLP/AI pipeline implementation, handling of edge cases, documentation clarity (README), working UI/CLI, and demo presentation.",
+    "keywords": ["evaluation criteria", "grading", "scoring", "how assessed", "rubric", "code quality"]
+  },
+  {
+    "id": "faq_018",
+    "category": "Certificates & Recognition",
+    "question": "When and how will I receive my Certificate of Completion?",
+    "answer": "Certificates of Completion are issued digitally via email within 7 to 10 days after all submitted tasks have been reviewed and verified by the evaluation committee.",
+    "keywords": ["certificate", "when receive certificate", "completion certificate", "digital certificate"]
+  },
+  {
+    "id": "faq_019",
+    "category": "Certificates & Recognition",
+    "question": "Is the Certificate of Completion verified and recognized?",
+    "answer": "Yes, every CodeAlpha certificate contains a unique credential ID and verification QR code/URL that can be verified online by recruiters and academic institutions.",
+    "keywords": ["certificate verification", "verified", "credential id", "recognized", "qr code"]
+  },
+  {
+    "id": "faq_020",
+    "category": "Certificates & Recognition",
+    "question": "How can an employer verify my internship certificate?",
+    "answer": "Employers can visit the CodeAlpha verification portal and enter your unique Certificate Identification Number to view the issued credentials and project details.",
+    "keywords": ["employer verification", "verify certificate", "credential check", "validation"]
+  },
+  {
+    "id": "faq_021",
+    "category": "Certificates & Recognition",
+    "question": "Who is eligible to receive a Letter of Recommendation (LOR)?",
+    "answer": "Top-performing interns who complete all assigned tasks with exceptional code quality, innovative features, thorough documentation, and timely submissions receive an official Letter of Recommendation.",
+    "keywords": ["lor", "letter of recommendation", "recommendation letter", "top performers", "eligibility"]
+  },
+  {
+    "id": "faq_022",
+    "category": "Program Policies",
+    "question": "Is this internship paid or is there a stipend provided?",
+    "answer": "The CodeAlpha virtual internship is an unpaid learning and development program focused on skill acquisition, mentorship, portfolio building, and industry-oriented experience.",
+    "keywords": ["paid", "stipend", "salary", "compensation", "unpaid"]
+  },
+  {
+    "id": "faq_023",
+    "category": "Program Policies",
+    "question": "Can I work part-time or flexible hours during the internship?",
+    "answer": "Yes, the internship is self-paced with flexible hours. As long as you fulfill your task milestones and final deadlines, you can work according to your own daily schedule.",
+    "keywords": ["flexible hours", "part-time", "schedule", "self-paced", "timing"]
+  },
+  {
+    "id": "faq_024",
+    "category": "Program Policies",
+    "question": "How many hours per week should I dedicate to the internship?",
+    "answer": "Most interns spend approximately 10 to 15 hours per week reading documentation, experimenting with models, coding solutions, and testing their projects.",
+    "keywords": ["hours per week", "time commitment", "weekly hours", "workload"]
+  },
+  {
+    "id": "faq_025",
+    "category": "Mentorship & Community",
+    "question": "How do I get in touch with my mentor or supervisor?",
+    "answer": "You can connect with mentors through the designated community Discord/Slack channels and during scheduled weekly AMA (Ask Me Anything) mentor guidance sessions.",
+    "keywords": ["mentor contact", "supervisor", "reach mentor", "guidance", "discord"]
+  },
+  {
+    "id": "faq_026",
+    "category": "Mentorship & Community",
+    "question": "Where can I ask technical doubts or discuss project issues?",
+    "answer": "Technical queries can be posted in the community discussion channels or submitted during mentor office hours where peers and leads assist with debugging.",
+    "keywords": ["technical doubts", "ask questions", "help with code", "community", "troubleshooting"]
+  },
+  {
+    "id": "faq_027",
+    "category": "Technical & Development",
+    "question": "What programming language should I use for AI tasks?",
+    "answer": "Python 3 is the mandatory programming language for Artificial Intelligence tasks due to its extensive ecosystem of data science, NLP, and machine learning libraries.",
+    "keywords": ["programming language", "python", "language requirement", "coding language"]
+  },
+  {
+    "id": "faq_028",
+    "category": "Technical & Development",
+    "question": "Which Python version is recommended for the projects?",
+    "answer": "Python 3.10, 3.11, or 3.12 is recommended for modern package compatibility, performance optimizations, and stable NLP/Scikit-Learn execution.",
+    "keywords": ["python version", "version compatibility", "python 3.10", "python 3.11", "python 3.12"]
+  },
+  {
+    "id": "faq_029",
+    "category": "Technical & Development",
+    "question": "Do I need a high-end GPU or special hardware to run the AI tasks?",
+    "answer": "No special hardware or dedicated GPU is required. The FAQ Chatbot and classical machine learning tasks use lightweight algorithms (TF-IDF, Cosine Similarity) that run efficiently on standard CPU computers.",
+    "keywords": ["gpu", "hardware", "cpu", "system requirements", "specs", "high end pc"]
+  },
+  {
+    "id": "faq_030",
+    "category": "Technical & Development",
+    "question": "Can I use Google Colab or Kaggle Notebooks for developing my models?",
+    "answer": "Yes, you can develop and experiment using Google Colab or Kaggle, but you should also export your code into clean, modular Python scripts (.py) for final GitHub submission.",
+    "keywords": ["google colab", "kaggle", "jupyter notebook", "cloud ide"]
+  },
+  {
+    "id": "faq_031",
+    "category": "Chatbot Architecture & NLP",
+    "question": "How does the FAQ Chatbot project work?",
+    "answer": "The chatbot receives a user query, preprocesses and cleans the text, transforms it into a numerical TF-IDF vector, calculates cosine similarity against stored FAQ questions, and returns the highest-scoring answer if it passes a confidence threshold.",
+    "keywords": ["how chatbot works", "architecture", "pipeline", "workflow", "faq system"]
+  },
+  {
+    "id": "faq_032",
+    "category": "Chatbot Architecture & NLP",
+    "question": "What NLP techniques are used in the FAQ Chatbot?",
+    "answer": "The chatbot utilizes lowercasing, punctuation normalization, tokenization, smart stopword filtering (preserving negations), WordNet lemmatization, and TF-IDF feature extraction.",
+    "keywords": ["nlp techniques", "preprocessing", "tokenization", "lemmatization", "stopwords"]
+  },
+  {
+    "id": "faq_033",
+    "category": "Chatbot Architecture & NLP",
+    "question": "Why is TF-IDF used instead of deep learning for the FAQ Chatbot?",
+    "answer": "TF-IDF is lightweight, fast, fully explainable, requires no expensive GPU training or external paid APIs, and works remarkably well on small to medium domain-specific FAQ datasets with low latency.",
+    "keywords": ["why tf-idf", "tfidf vs deep learning", "explainable ai", "lightweight nlp", "cost"]
+  },
+  {
+    "id": "faq_034",
+    "category": "Chatbot Architecture & NLP",
+    "question": "How does cosine similarity determine the best answer?",
+    "answer": "Cosine similarity measures the cosine of the angle between the user's TF-IDF query vector and each stored question vector. Values range from 0 (completely orthogonal/unrelated) to 1 (identical orientation), identifying the closest semantic match.",
+    "keywords": ["cosine similarity", "how similarity works", "vector similarity", "math", "angle"]
+  },
+  {
+    "id": "faq_035",
+    "category": "Chatbot Architecture & NLP",
+    "question": "What is the confidence threshold in the chatbot?",
+    "answer": "The confidence threshold (typically set between 0.30 and 0.40) is a cutoff score. If the maximum cosine similarity score falls below this threshold, the chatbot avoids returning an incorrect guess and instead provides a polite fallback message.",
+    "keywords": ["confidence threshold", "cutoff", "minimum score", "threshold tuning", "fallback trigger"]
+  },
+  {
+    "id": "faq_036",
+    "category": "Chatbot Architecture & NLP",
+    "question": "What should I do if the chatbot gives an irrelevant answer?",
+    "answer": "If the chatbot returns an irrelevant answer, try rephrasing your question with more specific domain keywords, or lower the confidence threshold if the match was borderline.",
+    "keywords": ["irrelevant answer", "wrong answer", "rephrase", "low accuracy", "troubleshoot bot"]
+  },
+  {
+    "id": "faq_037",
+    "category": "Academic Integrity & Policies",
+    "question": "What is the policy on code plagiarism and copied projects?",
+    "answer": "CodeAlpha enforces a strict zero-tolerance policy against plagiarism. Submitting uncredited cloned repositories or verbatim copies from peers will lead to immediate disqualification without a certificate.",
+    "keywords": ["plagiarism", "cheating", "copied code", "academic integrity", "disqualification"]
+  },
+  {
+    "id": "faq_038",
+    "category": "Academic Integrity & Policies",
+    "question": "Can I use open-source libraries and code snippets in my project?",
+    "answer": "Yes, using standard open-source libraries (e.g., NLTK, Scikit-Learn, Streamlit) is encouraged. However, your project architecture, logic, and implementation must be your original work.",
+    "keywords": ["open source", "libraries", "code snippets", "using packages", "external code"]
+  },
+  {
+    "id": "faq_039",
+    "category": "Account & Portal Support",
+    "question": "What should I do if I cannot log in to the student portal?",
+    "answer": "Ensure your credentials are correct, clear browser cookies/cache, or try using an incognito window. If the issue persists, click 'Forgot Password' or reach out to support@codealpha.tech.",
+    "keywords": ["cannot log in", "login issue", "student portal", "sign in problem", "account error"]
+  },
+  {
+    "id": "faq_040",
+    "category": "Account & Portal Support",
+    "question": "How can I reset my account password?",
+    "answer": "Click on the 'Forgot Password' link on the login page, enter your registered email address, and follow the password reset link sent to your inbox.",
+    "keywords": ["reset password", "forgot password", "change password", "account recovery"]
+  },
+  {
+    "id": "faq_041",
+    "category": "Account & Portal Support",
+    "question": "How can I update my registered email address or phone number?",
+    "answer": "You can update your contact information by accessing your Profile Settings in the portal or by submitting an email update request with your Offer ID to support@codealpha.tech.",
+    "keywords": ["update email", "change phone number", "profile update", "contact details"]
+  },
+  {
+    "id": "faq_042",
+    "category": "Program Policies",
+    "question": "Can I quit or withdraw from the internship early?",
+    "answer": "Yes, you can withdraw at any time by notifying support@codealpha.tech. However, incomplete participation will not qualify for a Certificate of Completion.",
+    "keywords": ["withdraw", "quit", "leave internship", "drop out", "cancel participation"]
+  },
+  {
+    "id": "faq_043",
+    "category": "Certificates & Recognition",
+    "question": "Can I get a Certificate of Completion if I do not finish all required tasks?",
+    "answer": "No, certificates are only granted to interns who successfully complete and submit the mandatory minimum number of assigned domain tasks within the program period.",
+    "keywords": ["certificate without tasks", "incomplete tasks", "do not finish", "failed submission", "no tasks"]
+  },
+  {
+    "id": "faq_044",
+    "category": "Career & Placement",
+    "question": "Will top-performing interns receive full-time job or PPO opportunities?",
+    "answer": "Exceptional performers may be referred to partner startups and hiring companies for interview opportunities, pre-placement offers (PPOs), or specialized advanced fellow programs.",
+    "keywords": ["job opportunities", "ppo", "placement", "hiring", "full time", "career"]
+  },
+  {
+    "id": "faq_045",
+    "category": "Support & Contact",
+    "question": "Who can I contact for urgent administrative queries or support?",
+    "answer": "For urgent inquiries, reach out to the CodeAlpha support desk at support@codealpha.tech with your full name, registered email, and Intern ID in the subject line.",
+    "keywords": ["contact support", "help desk", "support email", "urgent query", "administrative help"]
+  }
+]
+

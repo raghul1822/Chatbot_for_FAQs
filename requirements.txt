@@ -1,0 +1,15 @@
+# Core Machine Learning & Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+scipy>=1.10.0
+
+# Natural Language Processing
+nltk>=3.8.0
+
+# User Interfaces
+streamlit>=1.28.0
+
+# Testing & Code Quality
+pytest>=7.4.0
+
